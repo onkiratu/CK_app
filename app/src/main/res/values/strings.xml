@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Clau K</string>
+    <string name="app_title">Clau Strings</string>
+    <string name="hint_name">Enter Your Name</string>
+    <string name="hint_email">Enter Your Email</string>
+    <string name="hint_phone">Enter Your Phone Number</string>
+    <string name="hint_ID">Enter Your ID Number</string>
+    <string name="hint_password">Enter Your Password</string>
+    <string name="button_register">Register</string>
+    <string name="button_login">Login</string>
+</resources>
